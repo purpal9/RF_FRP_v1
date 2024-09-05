@@ -1,4 +1,6 @@
 # RF_FRP_v1
+NEW: PRE-PRINT uploaded in final journal format Sep 2024
+
 Repo for the functioning first dataset and version of the FRP RAP RF project
 
 Readme for calling Fire Radiative Power (FRP) Random Forest (RF) models in python:
